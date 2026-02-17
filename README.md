@@ -1,4 +1,4 @@
-# nexar-plm-connector-cs
+# Altium PLM Connector SDK
 A C# version of the generic PLM connector.
 
-[Documentation](https://nexardeveloper.github.io/nexar-plm-connector-cs/)
+[Documentation](https://altiumdeveloper.github.io/plm-connector-sdk-cs/)
