@@ -7,7 +7,7 @@ It works as a man-in-the-middle between Altium 356 and custom PLM system, taking
 for translation of models and operations types used by Altium 365 into the format acceptable by the custom PLM system.
 ![Altium365 Connection](./images/ConnectorAsAdapter.png)
 
-Generic Connector is distributed as a [C#](https://github.com/NexarDeveloper/nexar-plm-connector-cs) service application with associated documentation and example configuration files.
+Generic Connector is distributed as a [C#](https://github.com/AltiumDeveloper/plm-connector-sdk-cs) service application with associated documentation and example configuration files.
 Generic Connector framework comes with a working example of integration using a simple file system storage 
 that can be deployed and connected to the Altium ecosystem, which is a great starting point 
 for a custom implementation.
